@@ -1,7 +1,4 @@
-// Affiche un message de bienvenue
-#include "fonction-bienvenue.h"
-int main()
-{
-  afficherBienvenue();
-  return 0;
-}
+# Bienvenue
+Programme C++ qui affiche "Bienvenue le monde !" en utilisant la fonction
+`afficherBienvenue()`.
+
