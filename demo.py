@@ -12,5 +12,3 @@ df = pd.DataFrame(ar, index=["a1", "a2", "a3"], columns=["A", "B", "C", "D"])
 
 print("Hey")
 print("yo")
-
-L = []
